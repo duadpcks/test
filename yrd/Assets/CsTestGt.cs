@@ -20,6 +20,11 @@ public class CsTestGt : MonoBehaviour {
 	{
 		print("test");
 	}
+
+	void AddResize()
+	{
+
+	}
 	
 	// Update is called once per frame
 	void Update () {
