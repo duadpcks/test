@@ -35,7 +35,7 @@ public class CsTestGt : MonoBehaviour {
 
 	void Exception()
 	{
-
+		print("Exception Solution");
 	}
 
 	// Update is called once per frame
