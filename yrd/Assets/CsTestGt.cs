@@ -18,14 +18,20 @@ public class CsTestGt : MonoBehaviour {
 
 	void AddPhoto()
 	{
-		print("test");
+		print("test222");
 	}
 
 	void AddResize()
 	{
 
 	}
+
 	
+	void ADDResize()
+	{
+		
+	}
+
 	// Update is called once per frame
 	void Update () {
 	
