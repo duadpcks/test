@@ -18,7 +18,7 @@ public class CsTestGt : MonoBehaviour {
 
 	void AddPhoto()
 	{
-
+		print("test");
 	}
 	
 	// Update is called once per frame
