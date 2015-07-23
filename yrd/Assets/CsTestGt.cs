@@ -7,6 +7,13 @@ public class CsTestGt : MonoBehaviour {
 	void Start () {
 		print("add photo branch");
 		print("photo branch 2");
+
+
+	}
+
+	void mainBranch()
+	{
+
 	}
 	
 	// Update is called once per frame
